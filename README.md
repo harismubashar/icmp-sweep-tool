@@ -11,5 +11,7 @@ example:
 ./ipsweep.sh 192.168.1
 ```
 
+Keep in mind that your firewall may block the ICMP packets
+
 ## Dependencies
 Runnable on Linux/WSL environments. Must have ping capability.
